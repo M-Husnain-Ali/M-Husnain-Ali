@@ -1,39 +1,17 @@
-<!-- Stunning Header with Wave Animation -->
+<!-- Header with animated typing effect -->
 <div align="center">
+  
+# Hi there! 👋 I'm Husnain Ali
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Husnain%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20LLM%20Engineer%20|%20Production%20AI%20Workflows%20Expert&descAlignY=51&descAlign=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+LLM+Engineer;Production+AI+Workflows+Expert;Agentic+AI+Solutions+Specialist;SaaS+Scaling+Strategist" alt="Typing SVG" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+AI+%26+LLM+Engineer;💡+Production+AI+Workflows+Expert;🤖+Agentic+AI+Solutions+Specialist;📈+SaaS+Scaling+Strategist" alt="Typing SVG" />
-</h1>
+### 🚀 AI & LLM Engineer @ Artilence | FAST'26 CS Student
+### 💡 Expert in Production AI Workflows & Intelligent Automation Systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏢_Associate_Software_Engineer-Artilence-00D4FF?style=for-the-badge&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/🎓_FAST'26-Computer_Science-FF6B6B?style=for-the-badge&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-4CAF50?style=for-the-badge&labelColor=1a1a1a">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Husnain-Ali&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/M-Husnain-Ali?label=Followers&style=for-the-badge&color=00D4FF&labelColor=1a1a1a" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/husnain-ali-ai">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/M-Husnain-Ali/">
-    <img src="https://img.shields.io/badge/LeetCode-Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
-  </a>
-  <a href="mailto:m.husnainali.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://linktr.ee/m.husnain.ali">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=link&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnain-ali-ai)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/M-Husnain-Ali/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.husnainali.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://linktr.ee/m.husnain.ali)
 
 </div>
 
