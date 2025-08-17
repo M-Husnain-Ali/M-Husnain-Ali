@@ -1,17 +1,39 @@
-<!-- Header with animated typing effect -->
+<!-- Stunning Header with Wave Animation -->
 <div align="center">
-  
-# Hi there! 👋 I'm Husnain Ali
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+LLM+Engineer;Production+AI+Workflows+Expert;Agentic+AI+Solutions+Specialist;SaaS+Scaling+Strategist" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Husnain%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20LLM%20Engineer%20|%20Production%20AI%20Workflows%20Expert&descAlignY=51&descAlign=50"/>
 
-### 🚀 AI & LLM Engineer @ Artilence | FAST'26 CS Student
-### 💡 Expert in Production AI Workflows & Intelligent Automation Systems
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+AI+%26+LLM+Engineer;💡+Production+AI+Workflows+Expert;🤖+Agentic+AI+Solutions+Specialist;📈+SaaS+Scaling+Strategist" alt="Typing SVG" />
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnain-ali-ai)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/M-Husnain-Ali/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.husnainali.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://linktr.ee/m.husnain.ali)
+<p align="center">
+  <img src="https://img.shields.io/badge/🏢_Associate_Software_Engineer-Artilence-00D4FF?style=for-the-badge&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/🎓_FAST'26-Computer_Science-FF6B6B?style=for-the-badge&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-4CAF50?style=for-the-badge&labelColor=1a1a1a">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Husnain-Ali&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/M-Husnain-Ali?label=Followers&style=for-the-badge&color=00D4FF&labelColor=1a1a1a" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/husnain-ali-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/M-Husnain-Ali/">
+    <img src="https://img.shields.io/badge/LeetCode-Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="mailto:m.husnainali.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://linktr.ee/m.husnain.ali">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=link&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -95,13 +117,17 @@
 
 <div align="center">
 
+### 🤖 [AI Q&A Agent Neural Interface](https://github.com/M-Husnain-Ali/AI-QA-Agent-Neural-Interface-Frontend)
+*Modern AI chat interface with real-time response, contextual memory, and neural-themed dark UI*
+[![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/AI-QA-Agent-Neural-Interface-Frontend) [![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/AI-QA-Agent-Neural-Interface-Backend)
+
+### 🧠 [Linguo Compiler](https://github.com/M-Husnain-Ali/Linguo-Compiler)
+*Experimental programming language designed to be as close to natural English as possible*
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/Linguo-Compiler)
+
 ### 🍳 [FlavoGen - AI Recipe Platform](https://github.com/M-Husnain-Ali/Flavogen-AI-Recipe-Sharing-Platform)
 *Full-stack recipe-sharing platform with Django-React stack and ChatGPT integration*
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Backend)
-
-### 🏨 [SARAYE - Hotel Management System](https://github.com/M-Husnain-Ali/SARAYE---Hotel-Management-System)
-*Comprehensive hotel management system streamlining operations efficiently*
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/SARAYE---Hotel-Management-System)
+[![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Backend) [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Frontend)
 
 ### 🕌 [Masjid Sync - Real-time Updates](https://github.com/hassanj18/My-Mosque-Tracker)
 *React Native & Django app for real-time masjid updates and admin management*
@@ -125,44 +151,58 @@
 
 ## 💼 Professional Experience
 
-### 🚀 **Associate Software Engineer (Backend and AI)** | *Artilence* | Jun 2025 - Present
-- **International Client Collaboration:** Work directly with clients across US, UK, and Europe, delivering AI-driven solutions that streamline operations and enhance efficiency
-- **High-Performance Backend:** Develop scalable architectures using Django, Flask, and FastAPI to support complex web applications and AI systems
-- **Advanced Agentic AI:** Create intelligent solutions utilizing LangChain and LangGraph for context-aware reasoning and autonomous decision-making
-- **End-to-End Automation:** Engineer comprehensive workflows with n8n, integrating services to optimize business operations and reduce manual effort
+### 🚀 **Associate Software Engineer (Backend & AI)** | *Artilence* | Jun 2025 - Present
+> *Designing production-ready AI workflows for international clients across US, UK & Europe*
 
-### 💻 **Full Stack Web and AI Engineer** | *Upwork (Freelance)* | Jan 2025 - Present
-- Deliver custom AI and web development solutions for international clients
-- Specialize in full-stack development with AI integration and automation systems
-- Maintain high client satisfaction through clear communication and timely project delivery
+• **Advanced AI Architecture:** Engineer agentic AI solutions using LangChain & LangGraph for context-aware reasoning and autonomous decision-making  
+• **High-Performance Backend:** Develop scalable server architectures with Django, Flask & FastAPI supporting complex AI systems  
+• **Automation Excellence:** Build end-to-end workflows with n8n, optimizing business operations and reducing manual processes  
+• **Client Success:** Deliver AI-driven solutions that streamline operations, enhance efficiency, and drive measurable business growth  
+• **Technical Leadership:** Collaborate cross-functionally to implement cutting-edge AI technologies and best practices
+
+### 💻 **Full Stack Web & AI Engineer** | *Upwork (Freelance)* | Jan 2025 - Present
+> *Expert freelancer delivering custom AI & web solutions to global clientele*
+
+• **Custom AI Solutions:** Design and implement intelligent automation systems tailored to client-specific requirements  
+• **Full-Stack Mastery:** Develop comprehensive web applications with seamless AI integration and modern tech stacks  
+• **Client Excellence:** Maintain 100% client satisfaction through clear communication, timely delivery, and exceptional quality  
+• **Technology Innovation:** Leverage cutting-edge AI/ML frameworks to solve complex business challenges
 
 ### 🔧 **Software Engineering Intern** | *SolutionInn* | Dec 2024 - Apr 2025
-- **AI Chatbot Enhancement:** Implemented auto-save functionality, integrated Claude API for improved responses, and optimized voice assistance behavior
-- **Full-Stack Development:** Built admin-side database management pages, enhanced dashboard graph rendering, and improved equation rendering in Word/PDF formats
-- **UI/UX Optimization:** Resolved edge cases in chatbot UI behavior and implemented comprehensive testing protocols
+> *Full-stack development with focus on AI chatbot enhancement and system optimization*
+
+• **AI Integration:** Enhanced chatbot functionality with Claude API integration, auto-save features, and voice assistance optimization  
+• **Database Management:** Built comprehensive admin interfaces for database operations and user management systems  
+• **Performance Optimization:** Improved dashboard graph rendering and implemented accurate equation rendering for Word/PDF formats  
+• **Quality Assurance:** Resolved critical UI/UX edge cases and implemented robust testing protocols for enhanced user experience
 
 ### 🎓 **Campus Ambassador** | *SolutionInn at FAST NUCES* | Nov 2024 - Apr 2025
-- Connected students with premier academic resources and career opportunities
-- Fostered culture of excellence and facilitated access to cutting-edge tools and learning experiences
-- Empowered students through organizational leadership and cross-team collaboration
+> *Strategic liaison connecting students with premier academic resources and career opportunities*
+
+• **Community Building:** Connected 500+ students with cutting-edge tools, career pathways, and transformative learning experiences  
+• **Leadership Excellence:** Fostered culture of innovation and academic excellence through strategic outreach initiatives  
+• **Cross-Team Collaboration:** Coordinated with multiple departments to unlock professional growth opportunities for students
 
 ### 📚 **Teaching Assistant** | *FAST NUCES* | Aug 2024 - Present
-**Course Teaching Assistant** (Sep 2024 - Present)
-- Design and Analysis of Algorithms Spring 2025 (BSSE - 6A)
-- Computer Organization and Assembly Language Fall 2024 (BSCS - 3K)
-- Facilitate learning through guidance, support sessions, and skill-building activities
-- Evaluate quizzes, assignments, projects, and class participation
+> *Mentoring next-generation computer scientists in advanced algorithmic thinking and system design*
 
-**Lab Teaching Assistant** (Aug 2024 - Present)
-- Computer Organization and Assembly Language Lab (BSCS - 3D & 3K)
-- Assist students with coding, debugging, and lab evaluations
-- Develop comprehensive lab manuals and solutions
+**Course Teaching Assistant** *(Sep 2024 - Present)*
+• **Algorithm Expertise:** Guide students in Design and Analysis of Algorithms (BSSE-6A) and Computer Organization (BSCS-3K)  
+• **Educational Excellence:** Facilitate learning through structured guidance, problem-solving sessions, and skill development workshops  
+• **Assessment Leadership:** Evaluate comprehensive coursework including quizzes, assignments, projects, and participation metrics
+
+**Lab Teaching Assistant** *(Aug 2024 - Present)*
+• **Hands-On Mentoring:** Assist students with coding challenges, debugging techniques, and practical implementation in COAL Labs  
+• **Curriculum Development:** Design comprehensive lab manuals with detailed solutions and best-practice methodologies  
+• **Technical Support:** Provide real-time coding assistance and troubleshooting across multiple lab sections (BSCS-3D & 3K)
 
 ### 🏢 **Lead Front Desk Officer** | *FAST NUCES* | Jun 2023 - Aug 2023
-- **Process Optimization:** Achieved 15% improvement in service efficiency through strategic process enhancements
-- **Cross-Functional Leadership:** Led teams across multiple departments, facilitating seamless daily operations
-- **Stakeholder Management:** Engaged with students, faculty, and visitors, ensuring clear communication and prompt assistance
-- **Documentation & Compliance:** Managed admission information, test invigilation, and meticulous record-keeping
+> *Operational excellence and process optimization in university administrative operations*
+
+• **Process Innovation:** Achieved 15% efficiency improvement through strategic workflow enhancements and system optimization  
+• **Cross-Functional Leadership:** Led multi-departmental teams to ensure seamless daily operations and institutional excellence  
+• **Stakeholder Management:** Managed high-volume interactions with students, faculty, and visitors while maintaining service quality  
+• **Operational Excellence:** Oversaw admission processes, test administration, and comprehensive documentation protocols
 
 ---
 
