@@ -192,7 +192,7 @@
 
 🎯 **Bachelor of Science in Computer Science** | *FAST NUCES Lahore* | 2022-Present  
 📊 **Dean's List Honors** | 2023 & 2024 (Academic Excellence)  
-🏆 **Google Certifications** | Python Developer & Soft Skills Program  
+🏆 **Certifications** | Python Developer (Google), Agentic AI Expert (FreeCodeCamp), Soft Skills Program (Google)  
 🌐 **Languages** | English, Urdu, Arabic (Professional Working Proficiency)
 
 ---
