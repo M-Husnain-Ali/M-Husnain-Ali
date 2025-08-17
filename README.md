@@ -123,9 +123,9 @@
 *Experimental programming language designed to be as close to natural English as possible*
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/Linguo-Compiler)
 
-### 🔧 [N8N Agents (AI Automation)]()
+### 🔧 [N8N Agents (AI Automation)](https://github.com/M-Husnain-Ali/N8N-Agents)
 *Automated cross-platform workflows using n8n, enabling AI-powered Gmail categorization, Google Drive-to-RAG chatbot integration, and Notion-triggered responses for seamless productivity and smart information retrieval*
-[![GitHub](https://img.shields.io/badge/Automation-Workflows-FF6B6B?style=flat-square&logo=n8n&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/Automation-Workflows-FF6B6B?style=flat-square&logo=n8n&logoColor=white)](https://github.com/M-Husnain-Ali/N8N-Agents)
 
 </div>
 
