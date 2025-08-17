@@ -3,7 +3,7 @@
   
 # Hi there! 👋 I'm Husnain Ali
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+LLM+Engineer;Production+AI+Workflows+Expert;Agentic+AI+Solutions+Specialist;SaaS+Scaling+Strategist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Engineer;Production+AI+Workflows+Expert;Agentic+AI+Solutions+Specialist;SaaS+Scaling+Strategist" alt="Typing SVG" />
 
 ### 🚀 AI & LLM Engineer @ Artilence | FAST'26 CS Student
 ### 💡 Expert in Production AI Workflows & Intelligent Automation Systems
@@ -95,6 +95,26 @@
 
 <div align="center">
 
+### 📄 [AI PDF Search Engine](https://github.com/M-Husnain-Ali/AI-PDF-Search-Engine)
+*LangChain & Pinecone powered intelligent document search system*
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/AI-PDF-Search-Engine)
+
+### 🩸 [White Blood Cell Classification](https://github.com/M-Husnain-Ali/White-Blood-Cell-Classification)
+*CNN-based deep learning model for medical image classification*
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/White-Blood-Cell-Classification)
+
+### 🕌 [Masjid Sync - Real-time Updates](https://github.com/hassanj18/My-Mosque-Tracker)
+*React Native & Django app for real-time masjid updates and admin management*
+[![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/hassanj18/My-Mosque-Tracker) [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/hassanj18/Masjid-Sync-Native)
+
+### 💼 [JobHunt Pro Platform](https://github.com/M-Husnain-Ali/JobHuntPro-Job-Listing-Backend)
+*Full-stack job portal with LinkedIn scraping and advanced search*
+[![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/JobHuntPro-Job-Listing-Backend) [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/JobHuntPro-Job-Listing-Frontend)
+
+### 🍳 [FlavoGen - AI Recipe Platform](https://github.com/M-Husnain-Ali/Flavogen-AI-Recipe-Sharing-Platform)
+*Full-stack recipe-sharing platform with Django-React stack and ChatGPT integration*
+[![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Backend) [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Frontend)
+
 ### 🤖 [AI Q&A Agent Neural Interface](https://github.com/M-Husnain-Ali/AI-QA-Agent-Neural-Interface-Frontend)
 *Modern AI chat interface with real-time response, contextual memory, and neural-themed dark UI*
 [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/AI-QA-Agent-Neural-Interface-Frontend) [![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/AI-QA-Agent-Neural-Interface-Backend)
@@ -103,25 +123,9 @@
 *Experimental programming language designed to be as close to natural English as possible*
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/Linguo-Compiler)
 
-### 🍳 [FlavoGen - AI Recipe Platform](https://github.com/M-Husnain-Ali/Flavogen-AI-Recipe-Sharing-Platform)
-*Full-stack recipe-sharing platform with Django-React stack and ChatGPT integration*
-[![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Backend) [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/FlavoGen-AI-Powered-Recipe-Sharing-Frontend)
-
-### 🕌 [Masjid Sync - Real-time Updates](https://github.com/hassanj18/My-Mosque-Tracker)
-*React Native & Django app for real-time masjid updates and admin management*
-[![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/hassanj18/My-Mosque-Tracker) [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/hassanj18/Masjid-Sync-Native)
-
-### 🩸 [White Blood Cell Classification](https://github.com/M-Husnain-Ali/White-Blood-Cell-Classification)
-*CNN-based deep learning model for medical image classification*
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/White-Blood-Cell-Classification)
-
-### 📄 [AI PDF Search Engine](https://github.com/M-Husnain-Ali/AI-PDF-Search-Engine)
-*LangChain & Pinecone powered intelligent document search system*
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/AI-PDF-Search-Engine)
-
-### 💼 [JobHunt Pro Platform](https://github.com/M-Husnain-Ali/JobHuntPro-Job-Listing-Backend)
-*Full-stack job portal with LinkedIn scraping and advanced search*
-[![GitHub](https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/JobHuntPro-Job-Listing-Backend) [![GitHub](https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github)](https://github.com/M-Husnain-Ali/JobHuntPro-Job-Listing-Frontend)
+### 🔧 [N8N Agents (AI Automation)]()
+*Automated cross-platform workflows using n8n, enabling AI-powered Gmail categorization, Google Drive-to-RAG chatbot integration, and Notion-triggered responses for seamless productivity and smart information retrieval*
+[![GitHub](https://img.shields.io/badge/Automation-Workflows-FF6B6B?style=flat-square&logo=n8n&logoColor=white)]()
 
 </div>
 
