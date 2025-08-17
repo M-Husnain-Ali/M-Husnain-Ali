@@ -5,8 +5,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Engineer;Production+AI+Workflows+Expert;Agentic+AI+Solutions+Specialist;SaaS+Scaling+Strategist" alt="Typing SVG" />
 
-### 🚀 AI & LLM Engineer @ Artilence | FAST'26 CS Student
-### 💡 Expert in Production AI Workflows & Intelligent Automation Systems
+### 🚀  Associate Software Engineer (Backend & AI) @ Artilence | FAST'26 CS Student
+### 💡 Specialist in Enterprise-Scale AI Workflows, Autonomous Intelligent Automation, and High-Performance Production Backends
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnain-ali-ai)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/M-Husnain-Ali/)
