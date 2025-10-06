@@ -5,8 +5,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Engineer;Production+AI+Workflows+Expert;Agentic+AI+Solutions+Specialist;SaaS+Scaling+Strategist" alt="Typing SVG" />
 
-### 🚀  Associate Software Engineer (Backend & AI) @ Artilence | FAST'26 CS Student
-### 💡 Specialist in Enterprise-Scale AI Workflows, Autonomous Intelligent Automation, and High-Performance Production Backends
+### 🚀  AI Engineer @ Artilence | FAST'26 CS Student
+### 💡 Specialist in building AI-driven solutions, enterprise-scale intelligent workflows, autonomous automation systems, and high-performance SaaS platforms that redefine scalability and innovation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnain-ali-ai)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/M-Husnain-Ali/)
@@ -21,7 +21,6 @@
 
 > *"Driven by innovation, powered by code, inspired by AI possibilities"*
 
-🔭 **Currently Working On:** Intelligent backend systems and agentic AI solutions at **Artilence**  
 🎯 **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems  
 👯 **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems  
 💬 **Ask Me About:** AI/LLM engineering, agentic AI solutions, production AI workflows, and SaaS scaling strategies  
@@ -133,17 +132,21 @@
 
 ## 💼 Professional Experience
 
-### 🚀 **Associate Software Engineer (Backend & AI)** | *Artilence* | Jun 2025 - Present
+### 🤖 **AI Engineer** | *Artilence* | Sep 2025 - Present
 > *Designing production-ready AI workflows for international clients across US, UK & Europe*
+
+• **Agentic AI Systems:** Architect and deploy ecosystems combining LLMs, LangGraph, and automation tools to deliver intelligent, autonomous operations.  
+• **End-to-End AI Pipelines:** Build production-ready solutions integrating **Machine Learning**, **Generative AI**, and **backend intelligence** for real-world enterprise applications.  
+• **AI Product Development:** Collaborate with startups and enterprise teams to transform innovative ideas into **scalable, AI-powered products** through intelligent automation and **full-stack engineering**.
+
+### 🚀 **Associate Software Engineer** | *Artilence* | Jun 2025 - Sep 2025
 
 • **Advanced AI Architecture:** Engineer agentic AI solutions using LangChain & LangGraph for context-aware reasoning and autonomous decision-making  
 • **High-Performance Backend:** Develop scalable server architectures with Django, Flask & FastAPI supporting complex AI systems  
 • **Automation Excellence:** Build end-to-end workflows with n8n, optimizing business operations and reducing manual processes  
-• **Client Success:** Deliver AI-driven solutions that streamline operations, enhance efficiency, and drive measurable business growth  
-• **Technical Leadership:** Collaborate cross-functionally to implement cutting-edge AI technologies and best practices
 
 ### 💻 **Full Stack Web & AI Engineer** | *Upwork (Freelance)* | Jan 2025 - Present
-> *Expert freelancer delivering custom AI & web solutions to global clientele*
+> *Expert freelancer delivering custom AI & web solutions to global clients*
 
 • **Custom AI Solutions:** Design and implement intelligent automation systems tailored to client-specific requirements  
 • **Full-Stack Mastery:** Develop comprehensive web applications with seamless AI integration and modern tech stacks  
@@ -157,35 +160,6 @@
 • **Database Management:** Built comprehensive admin interfaces for database operations and user management systems  
 • **Performance Optimization:** Improved dashboard graph rendering and implemented accurate equation rendering for Word/PDF formats  
 • **Quality Assurance:** Resolved critical UI/UX edge cases and implemented robust testing protocols for enhanced user experience
-
-### 🎓 **Campus Ambassador** | *SolutionInn at FAST NUCES* | Nov 2024 - Apr 2025
-> *Strategic liaison connecting students with premier academic resources and career opportunities*
-
-• **Community Building:** Connected 500+ students with cutting-edge tools, career pathways, and transformative learning experiences  
-• **Leadership Excellence:** Fostered culture of innovation and academic excellence through strategic outreach initiatives  
-• **Cross-Team Collaboration:** Coordinated with multiple departments to unlock professional growth opportunities for students
-
-### 📚 **Teaching Assistant** | *FAST NUCES* | Aug 2024 - Present
-> *Mentoring next-generation computer scientists in advanced algorithmic thinking and system design*
-
-**Course Teaching Assistant** *(Sep 2024 - Present)*
-• **Algorithm Expertise:** Guide students in Design and Analysis of Algorithms (BSSE-6A) and Computer Organization (BSCS-3K)  
-• **Educational Excellence:** Facilitate learning through structured guidance, problem-solving sessions, and skill development workshops  
-• **Assessment Leadership:** Evaluate comprehensive coursework including quizzes, assignments, projects, and participation metrics
-
-**Lab Teaching Assistant** *(Aug 2024 - Present)*
-• **Hands-On Mentoring:** Assist students with coding challenges, debugging techniques, and practical implementation in COAL Labs  
-• **Curriculum Development:** Design comprehensive lab manuals with detailed solutions and best-practice methodologies  
-• **Technical Support:** Provide real-time coding assistance and troubleshooting across multiple lab sections (BSCS-3D & 3K)
-
-### 🏢 **Lead Front Desk Officer** | *FAST NUCES* | Jun 2023 - Aug 2023
-> *Operational excellence and process optimization in university administrative operations*
-
-• **Process Innovation:** Achieved 15% efficiency improvement through strategic workflow enhancements and system optimization  
-• **Cross-Functional Leadership:** Led multi-departmental teams to ensure seamless daily operations and institutional excellence  
-• **Stakeholder Management:** Managed high-volume interactions with students, faculty, and visitors while maintaining service quality  
-• **Operational Excellence:** Oversaw admission processes, test administration, and comprehensive documentation protocols
-
 ---
 
 ## 🎓 Education & Achievements
