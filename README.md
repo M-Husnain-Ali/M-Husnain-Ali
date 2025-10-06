@@ -132,35 +132,44 @@
 
 ## 💼 Professional Experience
 
-### 🤖 **AI Engineer** | *Artilence* | Sep 2025 - Present
-> *Designing production-ready AI workflows for international clients across US, UK & Europe*
+### 🤖 **AI Engineer** | *Artilence* | Sep 2025 – Present  
+> *Building enterprise-grade AI ecosystems and intelligent automation systems for clients across the US, UK & Europe.*
 
-• **Agentic AI Systems:** Architect and deploy ecosystems combining LLMs, LangGraph, and automation tools to deliver intelligent, autonomous operations.  
-• **End-to-End AI Pipelines:** Build production-ready solutions integrating **Machine Learning**, **Generative AI**, and **backend intelligence** for real-world enterprise applications.  
-• **AI Product Development:** Collaborate with startups and enterprise teams to transform innovative ideas into **scalable, AI-powered products** through intelligent automation and **full-stack engineering**.
+- **Agentic AI Systems:** Architect and deploy next-gen ecosystems powered by **LLMs**, **LangGraph**, and **autonomous orchestration tools**, enabling self-governing AI workflows.  
+- **Production AI Pipelines:** Deliver robust, end-to-end pipelines integrating **Machine Learning**, **Generative AI**, and **intelligent backends** for real-world applications.  
+- **AI Product Innovation:** Partner with global startups and enterprise teams to transform ideas into **scalable, AI-driven SaaS products** through automation and **full-stack engineering**.
 
-### 🚀 **Associate Software Engineer** | *Artilence* | Jun 2025 - Sep 2025
-
-• **Advanced AI Architecture:** Engineer agentic AI solutions using LangChain & LangGraph for context-aware reasoning and autonomous decision-making  
-• **High-Performance Backend:** Develop scalable server architectures with Django, Flask & FastAPI supporting complex AI systems  
-• **Automation Excellence:** Build end-to-end workflows with n8n, optimizing business operations and reducing manual processes  
-
-### 💻 **Full Stack Web & AI Engineer** | *Upwork (Freelance)* | Jan 2025 - Present
-> *Expert freelancer delivering custom AI & web solutions to global clients*
-
-• **Custom AI Solutions:** Design and implement intelligent automation systems tailored to client-specific requirements  
-• **Full-Stack Mastery:** Develop comprehensive web applications with seamless AI integration and modern tech stacks  
-• **Client Excellence:** Maintain 100% client satisfaction through clear communication, timely delivery, and exceptional quality  
-• **Technology Innovation:** Leverage cutting-edge AI/ML frameworks to solve complex business challenges
-
-### 🔧 **Software Engineering Intern** | *SolutionInn* | Dec 2024 - Apr 2025
-> *Full-stack development with focus on AI chatbot enhancement and system optimization*
-
-• **AI Integration:** Enhanced chatbot functionality with Claude API integration, auto-save features, and voice assistance optimization  
-• **Database Management:** Built comprehensive admin interfaces for database operations and user management systems  
-• **Performance Optimization:** Improved dashboard graph rendering and implemented accurate equation rendering for Word/PDF formats  
-• **Quality Assurance:** Resolved critical UI/UX edge cases and implemented robust testing protocols for enhanced user experience
 ---
+
+### 🚀 **Associate Software Engineer** | *Artilence* | Jun 2025 – Sep 2025  
+> *Engineered high-performance AI solutions and backend architectures for enterprise clients.*
+
+- **Autonomous AI Systems:** Built context-aware agents using **LangChain** & **LangGraph** for adaptive reasoning and task automation.  
+- **Scalable Backends:** Developed performance-optimized architectures with **Django**, **Flask**, and **FastAPI** to support complex AI operations.  
+- **Workflow Automation:** Designed end-to-end **n8n** automations streamlining business processes and minimizing manual overhead.
+
+---
+
+### 💻 **Full Stack Web & AI Engineer** | *Upwork (Freelance)* | Jan 2025 – Present  
+> *Delivering AI-powered web solutions and intelligent systems for international clients.*
+
+- **Custom AI Development:** Build tailored **AI & automation solutions** aligned with client needs.  
+- **Full-Stack Engineering:** Design dynamic web applications with seamless **AI integrations** across modern tech stacks.  
+- **Client Success:** Maintain a **100% satisfaction rate** through transparent communication, punctual delivery, and outstanding quality.  
+- **Innovation Focus:** Apply **AI/ML frameworks** to craft smart, scalable business solutions.
+
+---
+
+### 🔧 **Software Engineering Intern** | *SolutionInn* | Dec 2024 – Apr 2025  
+> *Focused on full-stack development, AI chatbot enhancement, and system optimization.*
+
+- **AI Chatbot Enhancement:** Integrated **Claude API**, added **voice assistance**, and implemented auto-save to elevate chatbot intelligence.  
+- **Database Systems:** Created intuitive admin dashboards for managing users, analytics, and operations.  
+- **Performance Tuning:** Optimized dashboard rendering and improved **LaTeX equation handling** in Word/PDF formats.  
+- **Quality Assurance:** Resolved critical UX bugs and introduced structured testing for reliability and performance.
+
+---
+
 
 ## 🎓 Education & Achievements
 
